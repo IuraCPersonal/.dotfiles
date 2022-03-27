@@ -19,6 +19,9 @@ A full-featured, hackable tiling window manager written and configured in Python
 - __Text Editor:__ [Vim](https://github.com/vim/vim) | <kbd>VSCode</kbd>
 - __File Manager:__ <kbd>Nemo</kbd>
 
+### Screenshots
+
+<img src="https://raw.githubusercontent.com/IuraCPersonal/.dotfiles/main/.screenshots/ArcoLinux_2022-03-27_21-02-46.png" />
 
 ### Keybinds
 
