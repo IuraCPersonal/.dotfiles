@@ -1,0 +1,6 @@
+configuration {
+    modi:          "window,drun,ssh,run";
+    show-icons:    true;
+    icon-theme:    "Papirus";
+}
+@theme "/usr/share/rofi/themes/android_notification.rasi"
