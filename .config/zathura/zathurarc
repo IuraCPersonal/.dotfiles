@@ -1,0 +1,11 @@
+set recolor "true"
+
+set highlight-color "#bb9af7"
+set highlight-active-color "#f7768e"
+set recolor-lightcolor "#1a1b26"
+set recolor-darkcolor "#c0caf5"
+set default-bg "#1a1b26"
+
+set window-title-home-tilde true
+set statusbar-basename true
+set selection-clipboard clipboard
