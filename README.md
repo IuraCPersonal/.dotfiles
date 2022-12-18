@@ -1,13 +1,13 @@
-# s1mpi's Dotfiles
+# PERSONAL ARCH LINUX DOTFILES
 
-## Table of Contents
+## 👋 TABLE OF CONTENTS
 
 - [Qtile](https://github.com/IuraCPersonal/.dotfiles//tree/main/.config/qtile)
 - Screenshots
 - Keybinds
 - License
 
-### Qtile
+### 🐍 QTILE
 
 A full-featured, hackable tiling window manager written and configured in Python.
 
@@ -21,14 +21,14 @@ A full-featured, hackable tiling window manager written and configured in Python
 - __File Manager:__ <kbd>Nemo</kbd>
 - __PDF Viewer:__ [zathura](https://github.com/pwmt/zathura)
 
-### Screenshots
+### 🗻 SCREENSHOTS
 
 <img src="https://raw.githubusercontent.com/IuraCPersonal/.dotfiles/main/.screenshots/ArcoLinux_2022-03-27_21-02-46.png" />
 <img src="https://raw.githubusercontent.com/IuraCPersonal/.dotfiles/main/.screenshots/ArcoLinux_2022-03-29_10-03-31.png" />
 <img src="https://raw.githubusercontent.com/IuraCPersonal/.dotfiles/main/.screenshots/ArcoLinux_2022-03-29_21-02-46.png" />
 <img src="https://raw.githubusercontent.com/IuraCPersonal/.dotfiles/main/.screenshots/ArcoLinux_2022-03-29_10-40-44.png" />
 
-### Keybinds
+### ⌨ KEYBINDINGS
 
 | Keybind                                  | Action              |
 | ---------------------------------------- | ------------------- |
@@ -39,7 +39,7 @@ A full-featured, hackable tiling window manager written and configured in Python
 | <kbd>super + shift</kbd><kbd>r</kbd>     | Restart Qtile       |
 | <kbd>super + shift</kbd><kbd>q</kbd>     | Kill Qtile          |
 
-### Vim Shortcuts
+### 👩‍💻 VIM SHORTCUTS
 
 | Keybind                | Action                                   |
 | ---------------------- | ---------------------------------------- |
@@ -49,7 +49,7 @@ A full-featured, hackable tiling window manager written and configured in Python
 | <kbd>control + t</kbd> | Toggle Nerd Tree                         |
 | <kbd>cs"'</kbd>        | Replace double quotes with single qoutes |
 
-### Terminal Aliases
+### 🔬 TERMINAL ALIASES
 
 | Alias          | Action                       |
 | -------------- | ---------------------------- |
@@ -63,6 +63,6 @@ A full-featured, hackable tiling window manager written and configured in Python
 | <kbd>vrc</kbd> | <kbd>vim ~/.vimrc</kbd>      |
 | <kbd>zrc</kbd> | <kbd>vim ~/.zshrc</kbd>      |
 
-### License
+### 🎓 LICENCE
 
 The files and scripts in this repository are licensed under the MIT License, which is a very permissive license allowing you to use, modify, copy, distribute, sell, give away, etc. the software. In other words, do what you want with it. The only requirement with the MIT License is that the license and copyright notice must be provided with the software.
